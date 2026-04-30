@@ -1,18 +1,26 @@
-# Cybersecurity Beginner Projects
-
-A beginner cybersecurity portfolio built to show hands-on learning, practical labs, and basic security awareness.  
-This repository contains small projects and writeups created while learning ethical hacking fundamentals.
-
 ## About the Project
 
-This project was created to document beginner-level cybersecurity learning through safe, legal, and ethical lab work only.  
-It includes practical exercises such as network scanning, packet analysis, and local security demonstrations.  
-The goal is to show initiative, consistency, and interest in cybersecurity internships.
+1.	Problem statement:
+With the boom in the IT industry and the addition of AI in each field, there has been more and more security threats whether being the network security or device security.
+Cyber attacks have become more common than ever before, judging that we have made a project that scans the network in such a way that we can detect attacks like DOS and DDOS beforehand.
+
+2.	The Problem We Face:
+With the traditional systems being weak, slow and prone to attacks, these attacks are more often transmitted in such a way that can enter the network bypassing the security layers in between, hence to solve this problem we have made a Database where all of the source ip addresses are stored.
+
+3.	Our Project Solution:
+Our project, Packet Sniffer Analysis Database System solves these problems by combining:
+•	Real-time packet capture using Python and Scapy
+•	Permanent storage in MariaDB relational database
+•	Automatic threat detection using SQL triggers
+•	Strong security with encryption and user access control
+•	Easy analysis through optimized database queries
+
+4.	Why our project is worth it ?
+We have made this project in Kali Linux, with a combination of python and database and cryptography making it work under the 3 important and necessary tools for hacking and other valued network security stuff.
+
 
 ## What’s Included
 
-- Beginner cybersecurity project files
-- Notes and writeups
 - Screenshots of outputs and results
 - Project documentation
 - MIT License
@@ -29,26 +37,10 @@ The goal is to show initiative, consistency, and interest in cybersecurity inter
 - Basic networking concepts
 - Port scanning and service detection
 - Packet capture and traffic analysis
-- How to document technical work clearly
-- How to organize and publish a project on GitHub
-
-## Project Highlights
-
-### 1. Network Scanning Lab
-Used Nmap to scan a safe local lab environment and identify open ports and services.  
-This helped me understand how attackers discover exposed services and how defenders think about risk.
-
-### 2. Wireshark Analysis
-Captured and analyzed network packets in a controlled environment.  
-This helped me learn how to spot unencrypted traffic and understand packet-level data.
-
-### 3. Security Learning Notes
-Documented findings, commands, screenshots, and lessons learned in a structured way.  
-This makes the project easier to review and more useful as a portfolio piece.
 
 ## Screenshots
 
-Add your screenshots inside a folder named `screenshots/` and use them like this:
+mentioned in output.docx
 
 ## How to Use
 
